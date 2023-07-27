@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Grupo_05/build/static/css/main.2ce50bf3.css",
+    "main.js": "/Grupo_05/build/static/js/main.de7c8f13.js",
+    "index.html": "/Grupo_05/build/index.html",
+    "main.2ce50bf3.css.map": "/Grupo_05/build/static/css/main.2ce50bf3.css.map",
+    "main.de7c8f13.js.map": "/Grupo_05/build/static/js/main.de7c8f13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ce50bf3.css",
+    "static/js/main.de7c8f13.js"
+  ]
+}
